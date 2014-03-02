@@ -1,5 +1,8 @@
+// Dos\Windows, ANSI
+// 找出将帅不冲突的位置
 #include <cstdio>
 using namespace std;
+
 /*
 	012
 	345
